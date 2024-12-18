@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = NerdStore.WebApp.MVC
+build_property.ProjectDir = C:\GITHUB\Modelagem_Dominios_Ricos\src\NerdStore.WebApp.MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
