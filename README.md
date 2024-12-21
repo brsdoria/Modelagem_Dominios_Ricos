@@ -1,4 +1,4 @@
-# Modelagem de Domínios Rico
+# Modelagem de Domínios Rico 
 
 Apresentação de uma aplicação web que ilustra a aplicabilidade do DDD, com foco na aplicação prática da modelagem tática. Colocando em prática uma modelagem que o padrão DDD prega, uma camada de dominio, aplicação, apresentação, infraestrutura e dados.
 
@@ -40,7 +40,7 @@ NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 2.2.6
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/Capturar.PNG)
+![EstruturaDoProjeto](screenshots/estrutura.PNG)
 
 ## ⚠️ Atenção
 
