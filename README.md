@@ -44,7 +44,7 @@ NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 16.0.1
 NuGet\Install-Package FluentValidation -Version 8.4.0
 ```
 
-* [xunit](https://xunit.net/) - Foi utilizada essa ferramenta de teste de unidade gratuita, de código aberto e focada na comunidade para o .NET Framework.
+* [xunit](https://xunit.net/) - Ferramenta de teste de unidade gratuita, de código aberto e focada na comunidade para o .NET Framework.
 ```
 NuGet\Install-Package xunit -Version 2.4.0
 ```
