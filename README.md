@@ -14,7 +14,7 @@ Apresentação de uma aplicação web que ilustra a aplicabilidade do DDD, com f
 NuGet\Install-Package Microsoft.NETCore.App -Version 2.2.0
 ```
 
-* [Microsoft.AspNetCore.Http](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-2-2) - Framework multiplataforma de código aberto desenvolvido pela Microsoft para a criação e execução de aplicações modernas, como aplicações web, desktop, móveis e serviços.
+* [Microsoft.AspNetCore.Http](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-2-2) - Namespace no ASP.NET Core que fornece classes e interfaces essenciais para o trabalho com requisições HTTP (requests), respostas HTTP (responses), cookies, sessões, cabeçalhos, entre outros aspectos relacionados ao protocolo HTTP em aplicações web.
 
 ```
 NuGet\Install-Package Microsoft.AspNetCore.Http -Version 2.2.0
