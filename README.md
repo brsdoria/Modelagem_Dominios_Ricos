@@ -8,10 +8,10 @@ Apresentação de uma aplicação web que ilustra a aplicabilidade do DDD, com f
 
 ## 📚 Principais Bibliotecas, Frameworks e Comandos do NuGet Utilizados
 
-* [netcoreapp2.2](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-2-2) - 
+* [netcoreapp2.2](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-2-2) - Versão específica do .NET Core, que é uma plataforma de desenvolvimento da Microsoft para criar aplicações modernas e multiplataforma. O .NET Core 2.2 foi uma das versões do .NET Core lançadas em 2018.
 
 ```
-NuGet\Install-Package Microsoft.AspNetCore.Http -Version 2.2.0
+NuGet\Install-Package Microsoft.NETCore.App -Version 2.2.0
 ```
 
 * [Microsoft.AspNetCore.Http](https://learn.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-2-2) - Framework multiplataforma de código aberto desenvolvido pela Microsoft para a criação e execução de aplicações modernas, como aplicações web, desktop, móveis e serviços.
