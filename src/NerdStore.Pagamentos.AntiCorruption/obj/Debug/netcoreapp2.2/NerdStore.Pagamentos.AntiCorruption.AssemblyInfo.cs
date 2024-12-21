@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NerdStore.Pagamentos.AntiCorruption")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe89a8591236429d3f6812c7b4619beb738ef762")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8b0f3b1cb97392197d48972a86ca335ce636c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NerdStore.Pagamentos.AntiCorruption")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NerdStore.Pagamentos.AntiCorruption")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

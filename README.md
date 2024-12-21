@@ -32,7 +32,7 @@ NuGet\Install-Package FluentValidation -Version 8.4.0
 ```
 NuGet\Install-Package xunit -Version 2.4.0
 ```
-* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - Foi utilizado esse framework com objetivo facilitar o acesso e a manipulação de dados no banco de dados em aplicações .NET.
+* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - Framework com objetivo facilitar o acesso e a manipulação de dados no banco de dados em aplicações .NET.
 ```
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 2.2.6
 ```
