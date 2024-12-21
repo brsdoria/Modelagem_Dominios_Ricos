@@ -15067,11 +15067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "projectName": "NerdStore.WebApp.MVC",
-      "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -15092,32 +15092,32 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj"
             }
           }
         }

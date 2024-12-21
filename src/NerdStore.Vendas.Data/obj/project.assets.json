@@ -4076,11 +4076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
       "projectName": "NerdStore.Vendas.Data",
-      "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\NerdStore.Vendas.Data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4101,11 +4101,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             },
-            "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
-              "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj"
             }
           }
         }

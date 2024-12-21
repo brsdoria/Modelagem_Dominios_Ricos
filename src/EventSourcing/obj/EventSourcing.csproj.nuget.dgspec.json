@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj": {}
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj": {}
   },
   "projects": {
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj": {
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj",
         "projectName": "EventSourcing",
-        "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\EventSourcing.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\EventSourcing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

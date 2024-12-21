@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = NerdStore.Core
-build_property.ProjectDir = C:\GITHUB\Modelagem_Dominios_Ricos\src\NerdStore.Core\
+build_property.ProjectDir = C:\Users\User\Desktop\GITHUB\PUBLICADOS\Modelagem_Dominios_Ricos\src\NerdStore.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

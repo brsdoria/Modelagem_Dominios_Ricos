@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj": {}
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj": {}
   },
   "projects": {
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj": {
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj",
         "projectName": "NerdStore.Pagamentos.Business",
-        "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,8 +108,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj": {
+    "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj",
         "projectName": "NerdStore.Pagamentos.Data",
-        "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\NerdStore.Pagamentos.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,11 +180,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-                "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+              "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Core\\NerdStore.Core.csproj"
               },
-              "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj": {
-                "projectPath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj"
+              "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj"
               }
             }
           }

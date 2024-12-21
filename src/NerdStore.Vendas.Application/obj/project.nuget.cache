@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eh0B0qAvWto=",
+  "dgSpecHash": "U7bpuz3DE+w=",
   "success": true,
-  "projectFilePath": "C:\\GITHUB\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
