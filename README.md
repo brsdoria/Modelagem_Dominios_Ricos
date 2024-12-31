@@ -26,7 +26,7 @@ NuGet\Install-Package Microsoft.AspNetCore.Http -Version 2.2.0
 NuGet\Install-Package MediatR -Version 7.0.0
 ```
 
-* [AutoMapper](https://automapper.org/) - Foi utilizada essa biblioteca para mapear objetos.
+* [AutoMapper](https://automapper.org/) - Biblioteca para mapear objetos.
 
 ```
 NuGet\Install-Package AutoMapper -Version 6.1.1
@@ -38,18 +38,19 @@ NuGet\Install-Package AutoMapper -Version 6.1.1
 NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 16.0.1
 ```
 
-* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Foi utilizada essa biblioteca para validação de objetos.
+* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Biblioteca para validação de objetos.
 
 ```
 NuGet\Install-Package FluentValidation -Version 8.4.0
 ```
 
 * [xunit](https://xunit.net/) - Ferramenta de teste de unidade gratuita, de código aberto e focada na comunidade para o .NET Framework.
+
 ```
 NuGet\Install-Package xunit -Version 2.4.0
 ```
 
-* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - Foi utilizado esse ORM para interagir com bancos de dados usando objetos.
+* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - ORM para interagir com bancos de dados usando objetos.
 
 ```
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 2.2.6
