@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B0AF6-50E5-4CC4-B87A-F620B88F0A8F}|WebApps{C65B0AF6-50E5-4CC4-B87A-F620B88F0A8F}|C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C65B0AF6-50E5-4CC4-B87A-F620B88F0A8F}|WebApps{C65B0AF6-50E5-4CC4-B87A-F620B88F0A8F}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C6A75D-B8A2-412D-9497-BFA14C746889}|src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj|c:\\users\\user\\desktop\\github\\publicados\\modelagem_dominios_ricos\\src\\nerdstore.catalogo.data\\nerdstore.catalogo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16C6A75D-B8A2-412D-9497-BFA14C746889}|src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj|solutionrelative:src\\nerdstore.catalogo.data\\nerdstore.catalogo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A0F20E-581B-48C4-B9C4-4583D049631F}|src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj|c:\\users\\user\\desktop\\github\\publicados\\modelagem_dominios_ricos\\src\\nerdstore.catalogo.application\\nerdstore.catalogo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15A0F20E-581B-48C4-B9C4-4583D049631F}|src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj|solutionrelative:src\\nerdstore.catalogo.application\\nerdstore.catalogo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B574C1-43DA-40C0-81AE-F526AE3D7A95}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\users\\user\\desktop\\github\\publicados\\modelagem_dominios_ricos\\src\\nerdstore.webapp.mvc\\nerdstore.webapp.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32B574C1-43DA-40C0-81AE-F526AE3D7A95}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\nerdstore.webapp.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NerdStore.Catalogo.Data",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+              "RelativeToolTip": "src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T18:30:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NerdStore.Catalogo.Application",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+              "RelativeToolTip": "src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T18:30:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NerdStore.WebApp.MVC",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+              "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+              "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T18:01:59.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vzMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-21T18:01:26.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
