@@ -31,41 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NerdStore.Catalogo.Data",
+              "Title": "NerdStore.Catalogo.Data.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
               "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
               "RelativeToolTip": "src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-21T18:30:47.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T18:30:47.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NerdStore.Catalogo.Application",
+              "Title": "NerdStore.Catalogo.Application.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
               "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
               "RelativeToolTip": "src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-21T18:30:45.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T18:30:45.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NerdStore.WebApp.MVC",
+              "Title": "NerdStore.WebApp.MVC.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
               "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
               "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-21T18:01:59.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T18:01:59.144Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\Modelagem_Dominios_Ricos\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAA4AAAAAAAAAAAD4vzMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-12-21T18:01:26.074Z",
               "EditorCaption": ""
