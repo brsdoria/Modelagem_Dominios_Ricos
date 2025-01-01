@@ -32,7 +32,7 @@ NuGet\Install-Package MediatR -Version 7.0.0
 NuGet\Install-Package AutoMapper -Version 6.1.1
 ```
 
-* [Microsoft.NET.Test.Sdk](https://automapper.org/) - Fornece o suporte necessário para executar testes unitários. Ele é uma parte fundamental do framework de testes para projetos que utilizam ferramentas como o xUnit, NUnit ou MSTest.
+* [Microsoft.NET.Test.Sdk](https://learn.microsoft.com/pt-br/dotnet/core/tools/dotnet-test) - Fornece o suporte necessário para executar testes unitários. Ele é uma parte fundamental do framework de testes para projetos que utilizam ferramentas como o xUnit, NUnit ou MSTest.
 
 ```
 NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 16.0.1
@@ -44,7 +44,7 @@ NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 16.0.1
 NuGet\Install-Package FluentValidation -Version 8.4.0
 ```
 
-* [xunit](https://xunit.net/) - Ferramenta de teste de unidade gratuita, de código aberto e focada na comunidade para o .NET Framework.
+* [xunit](https://xunit.net/) - Framework de testes unitários para aplicações .NET
 
 ```
 NuGet\Install-Package xunit -Version 2.4.0
