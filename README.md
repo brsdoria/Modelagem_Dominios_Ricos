@@ -26,7 +26,7 @@ NuGet\Install-Package Microsoft.AspNetCore.Http -Version 2.2.0
 NuGet\Install-Package MediatR -Version 7.0.0
 ```
 
-* [AutoMapper](https://automapper.org/) - Biblioteca para mapear objetos.
+* [AutoMapper](https://automapper.org/) - Biblioteca de mapeamento de objetos facilita a conversão de dados entre objetos de tipos diferentes, evitando código repetitivo.
 
 ```
 NuGet\Install-Package AutoMapper -Version 6.1.1
