@@ -2,7 +2,9 @@
 
 ## 📝️ Escopo do Projeto
 
+<p align="justify"> 
 Apresentação de uma aplicação web que ilustra a aplicabilidade do DDD, com foco na aplicação prática da modelagem tática, linguagem Ubíqua e modelagem estratégica.
+</p>
 
 ## 🛠️ Construído com
 
