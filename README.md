@@ -30,7 +30,7 @@ NuGet\Install-Package MediatR -Version 7.0.0
 
 ```
 NuGet\Install-Package AutoMapper -Version 6.1.1
-```
+``` 
 
 * [Microsoft.NET.Test.Sdk](https://learn.microsoft.com/pt-br/dotnet/core/tools/dotnet-test) - Fornece o suporte necessário para executar testes unitários. Ele é uma parte fundamental do framework de testes para projetos que utilizam ferramentas como o xUnit, NUnit ou MSTest.
 
