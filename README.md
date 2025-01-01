@@ -4,6 +4,11 @@
 
 <p align="justify"> 
 O projeto demonstra apresentação de uma aplicação Web que ilustra a aplicabilidade do DDD, com foco na aplicação prática da modelagem tática, linguagem Ubíqua e modelagem estratégica.
+
+
+
+
+  
 </p>
 
 ## 🛠️ Construído com
