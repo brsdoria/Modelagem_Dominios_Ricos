@@ -38,7 +38,7 @@ NuGet\Install-Package AutoMapper -Version 6.1.1
 NuGet\Install-Package Microsoft.NET.Test.Sdk -Version 16.0.1
 ```
 
-* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Biblioteca para validação de objetos.
+* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Biblioteca de validação de dados para aplicações .NET que permite validar objetos.
 
 ```
 NuGet\Install-Package FluentValidation -Version 8.4.0
